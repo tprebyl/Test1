@@ -30,3 +30,4 @@ def hello():
     print 'hi there'
 
 print 'finished'
+print 'finished again'
